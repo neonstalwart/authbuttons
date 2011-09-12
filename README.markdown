@@ -23,7 +23,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/twitter_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/twitter_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/twitter_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/twitter.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/twitter.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/facebook_32.png'/></th>
@@ -32,7 +32,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/facebook_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/facebook_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/facebook_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/facebook.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/facebook.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/google_32.png'/></th>      
@@ -41,7 +41,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/google.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/google.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/openid_32.png'/></th>
@@ -50,7 +50,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/openid_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/openid_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/openid_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/openid.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/openid.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/linkedin_32.png'/></th>
@@ -59,7 +59,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/linkedin_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/linkedin_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/linkedin_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/linkedin.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/linkedin.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/yahoo_32.png'/></th>      
@@ -68,7 +68,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/yahoo_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/yahoo_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/yahoo_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/yahoo.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/yahoo.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/aol_32.png'/></th>
@@ -77,7 +77,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/aol_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/aol_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/aol_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/aol.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/aol.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/github_32.png'/></th>
@@ -86,7 +86,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/github_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/github_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/github_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/github.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/github.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/myspace_32.png'/></th>
@@ -95,7 +95,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/myspace_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/myspace_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/myspace_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/myspace.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/myspace.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/basecamp_32.png'/></th>      
@@ -104,7 +104,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/basecamp_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/basecamp_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/basecamp_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/basecamp.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/basecamp.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/campfire_32.png'/></th>      
@@ -113,7 +113,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/campfire_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/campfire_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/campfire_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/campfire.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/campfire.eps'>.EPS</a></td>        	      
     </tr>
     <tr>
 	    <th><img src='https://github.com/intridea/authbuttons/raw/master/png/presently_32.png'/></th>      
@@ -122,7 +122,7 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently_64.png'>64x64</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently_128.png'>128x128</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently_256.png'>256x256</a></td>        
-	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently.eps'>.EPS</a></td>        	      
+	      <td><a href='http://github.com/intridea/authbuttons/raw/master/eps/presently.eps'>.EPS</a></td>        	      
     </tr>
 	</tbody>
 </table>
